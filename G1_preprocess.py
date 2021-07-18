@@ -1,3 +1,4 @@
+print('hi git')
 from kafka import KafkaConsumer, KafkaProducer, TopicPartition
 import json
 import uuid
